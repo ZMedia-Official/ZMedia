@@ -1,2 +1,0 @@
-# ZMedia
-ZMedia official website
